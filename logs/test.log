@@ -1,0 +1,10 @@
+17:34:35.984 [main] INFO  com.api.filter.LoggingFilter - Request: POST https://restful-booker.herokuapp.com/auth
+17:34:35.987 [main] INFO  com.api.filter.LoggingFilter - Headers: Accept=*/*
+Content-Type=application/json
+17:34:38.510 [main] INFO  com.api.filter.LoggingFilter - Response Status: 200
+17:34:38.526 [main] INFO  com.api.filter.LoggingFilter - Response Body: {"token":"1c5428ed86c07c3"}
+18:50:33.250 [TestNG-test-API Tests-1] INFO  com.api.filter.LoggingFilter - Request: POST https://restful-booker.herokuapp.com/auth
+18:50:33.255 [TestNG-test-API Tests-1] INFO  com.api.filter.LoggingFilter - Headers: Accept=*/*
+Content-Type=application/json
+18:50:35.956 [TestNG-test-API Tests-1] INFO  com.api.filter.LoggingFilter - Response Status: 200
+18:50:36.011 [TestNG-test-API Tests-1] INFO  com.api.filter.LoggingFilter - Response Body: {"token":"2b16edda7d54506"}
